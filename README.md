@@ -1,0 +1,2 @@
+# Capstone-on-Food-Delivery-Demand-Across-Regions-to-Inform-Market-Expansion-and-Logistics
+ This capstone analyzes a synthetic but realistic dataset covering 22,000 customers, 550 restaurants, 1,100 delivery partners, and 99,834 orders , between 2023 and 2025 across Urban, Semi-Urban, and Metropolitan cities. With 4 tables together gives demand patterns, spending behavior, cuisine preferences, delivery performance, and order economics.
